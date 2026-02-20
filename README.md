@@ -20,9 +20,10 @@ Data Layer: Robust Database integration with a high-speed Caching Layer to minim
 Monitoring: Integrated Slack Client for real-time alerting on budget executions and risk triggers.
 Configuration: Flexible YAML-based environment management for rapid deployment across different markets (US/UAE/CY).
 Logging: Enterprise-grade logging configuration for full auditability of every financial decision.
-🔒 Access & Licensing
-Notice: This is a Proprietary Private Repository.
-The source code is confidential and contains high-value intellectual property.
-For Investment Inquiries: auroraklajzer@gmail.com
-For Technical Audits (Verified Partners): Access can be granted via GitHub Collaborator status upon NDA.
+🔒 Proprietary Notice & Licensing:
+This is a Strictly Confidential Private Repository. The source code, architecture, and algorithms (NexusFlow Engine) constitute valuable Intellectual Property and Trade Secrets.
+Investment & Business Inquiries: auroraklajzer@gmail.com
+Technical Audits: Access for verified partners can be granted via GitHub Collaboration strictly under a signed Non-Disclosure Agreement (NDA).
+Unauthorized access, distribution, or reverse engineering of this repository is strictly prohibited and protected by international copyright laws.
+
  
