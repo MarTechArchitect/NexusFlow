@@ -23,5 +23,6 @@ Logging: Enterprise-grade logging configuration for full auditability of every f
 🔒 Access & Licensing
 Notice: This is a Proprietary Private Repository.
 The source code is confidential and contains high-value intellectual property.
-For Investment Inquiries: [Your Email/Contact]
+For Investment Inquiries: auroraklajzer@gmail.com
 For Technical Audits (Verified Partners): Access can be granted via GitHub Collaborator status upon NDA.
+ 
