@@ -22,7 +22,8 @@ Configuration: Flexible YAML-based environment management for rapid deployment a
 Logging: Enterprise-grade logging configuration for full auditability of every financial decision.
 🔒 Proprietary Notice & Licensing:
 This is a Strictly Confidential Private Repository. The source code, architecture, and algorithms (NexusFlow Engine) constitute valuable Intellectual Property and Trade Secrets.
-Investment & Business Inquiries: auroraklajzer@gmail.com
+Investment & Business Inquiries: u6977409492@gmail.com
+
 Technical Audits: Access for verified partners can be granted via GitHub Collaboration strictly under a signed Non-Disclosure Agreement (NDA).
 Unauthorized access, distribution, or reverse engineering of this repository is strictly prohibited and protected by international copyright laws.
 
